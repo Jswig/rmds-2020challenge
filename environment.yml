@@ -1,0 +1,15 @@
+name:
+	rmds-covid-env
+channels:
+	- base
+	- conda-forge
+	- anaconda
+	- bioconda
+dependencies:
+	- geopandas
+	- jupyter
+	- matplotlib
+	- pandas>=1.0
+	- scikit-learn=0.23
+	- seaborn
+	- snakemake
