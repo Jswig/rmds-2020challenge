@@ -6,6 +6,7 @@ channels:
 	- anaconda
 	- bioconda
 dependencies:
+	- basemap 
 	- geopandas
 	- jupyter
 	- matplotlib
