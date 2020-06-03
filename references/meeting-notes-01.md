@@ -11,14 +11,15 @@ notebooks naming scheme: `name-purpose-01.ipynb`
 
 ## Datesets
 
-- Recreation and parks
-- Grocery storesk
-- Traffic in LA
-- occupation and healthcare coverage
-- social vulnerability
-- COVID-19 Latitude / Longitude
-- Google Places API Traffic
-- safegraph foot traffic
+Interesting datasets and person assigned to explore the dataset:
+- Recreation and parks: Shravani
+- Grocery stores: Shravani
+- Traffic in LA: Anders
+- social vulnerability score: Shravani
+- COVID-19 Latitude / Longitude: Anders
+- Google Places API Traffic: Julian
+- safegraph foot traffic: Anders
+- Covid-19 by neighborhood: Everyone (cross-compare with data you have)
 
 ## Evaluating Risk score
 
@@ -26,8 +27,9 @@ notebooks naming scheme: `name-purpose-01.ipynb`
 - Actuarial risk scores 
 - Bayesian decision theoy
 
-Definition of risk: score should be higher if place is associated with testing positive.
-
+Definition of risk: 
+score should be higher if place is "associated" with testing positive. 
 
 ## Idea 
 Calculate the risk score by neighborhood (and get more neighborhood)
+Scope: city of LA

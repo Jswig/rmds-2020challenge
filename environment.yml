@@ -12,5 +12,6 @@ dependencies:
 	- matplotlib
 	- pandas>=1.0
 	- scikit-learn=0.23
+	- statsmodels
 	- seaborn
 	- snakemake
