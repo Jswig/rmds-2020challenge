@@ -1,4 +1,5 @@
-# RMDS 2020 Challenge
+
+#[CLOSED] RMDS 2020 Challenge
 
 *Shravani Kasralikar, Julian Lehrer, Anders Poirel 28/05/2020*
 
